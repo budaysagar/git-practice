@@ -1,3 +1,3 @@
-My Git practice
-practice repo for learning git
-Hello from the feature branch 
+My Git Practice
+practice repo for learning Git
+Hello from main branch
