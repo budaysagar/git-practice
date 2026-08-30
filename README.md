@@ -1,2 +1,2 @@
-My Git practice
-practice repo for learning git
+Getting started
+clone this repo and explore the practice commands
