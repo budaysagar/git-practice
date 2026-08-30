@@ -1,7 +1,2 @@
-My Git Practice
-Practice repo for learning Git
-Hello from Uday, merged from the feature branch!
-started drafting a new section, not ready ti commit yet
-Added installation section
-Fixed typo installation section
-added contributing guidelines section
+Getting started
+clone this repo and explore the practice commands
