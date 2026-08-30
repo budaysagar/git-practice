@@ -1,3 +1,3 @@
 My Git Practice
-practice repo for learning Git
-Hello from main branch
+Practice repo for learning Git
+Hello from Uday, merged from the feature branch!
