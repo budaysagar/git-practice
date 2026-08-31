@@ -5,3 +5,4 @@ started drafting a new section, not ready ti commit yet
 Added installation section
 Fixed typo installation section
 added contributing guidelines section
+troubleshooting
